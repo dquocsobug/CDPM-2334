@@ -1,3 +1,5 @@
+# v1.0.1 - 20261103
+* [CDPM-06] Remove addition [PR#<số>](https://github.com/dquocsobug/CDPM-2334/pull/<số>)
 # v1.0.0 - 20261103
 * [CDPM-01] Implement addition [PR#1](https://github.com/dquocsobug/CDPM-2334/pull/1)
 * [CDPM-02] Implement multiplication [PR#2](https://github.com/dquocsobug/CDPM-2334/pull/2)
